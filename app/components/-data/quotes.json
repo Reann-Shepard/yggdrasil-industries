@@ -1,0 +1,20 @@
+[
+  {
+    "sourceType": "Rimworld",
+    "id": 1,
+    "subject": "Power Armor",
+    "body": "The development of a self-powered exoskeleton goes back to the 21st century, for which its original purpose was to assist people in being able to move far more than otherwise capable and repeatedly without causing injuries.",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "24",
+    "image": "https://rimworldwiki.com/images/2/20/PoweredArmor.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 2,
+    "subject": "Power Armor",
+    "body": "One of the capabilities of the EVA armor that was initially met with skepticism when first designed was the auxiliary equipment functionality. This was because the original design was intended for power armor users who had to use both their arms and legs to stay attached to objects in zero gravity environments, so remote-operated shoulder-mounted tools would become almost a necessity.",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "27",
+    "image": "https://rimworldwiki.com/images/2/20/PoweredArmor.png"
+  }
+]
