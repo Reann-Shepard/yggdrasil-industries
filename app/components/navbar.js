@@ -15,9 +15,9 @@ const NavBar = ({ setActiveModule }) => {
     <nav className="p-3 fixed top-0 w-full z-30 font-extrabold text-lg text-shadow-outline glass">
       <div className="flex container mx-auto flex-row justify-between items-center">
         <div className="flex-none">
-          <h1 className="uppercase">Yggdrasil Industries</h1>
+          <h1 className="uppercase text-base-content">Yggdrasil Industries</h1>
         </div>
-        <ul className="flex flex-row justify-center items-center flex-grow space-x-8">
+        <ul className="flex flex-row justify-center items-center flex-grow space-x-8 text-base-content">
           <li
             className="daisy-btn daisy-btn-primary w-24"
             onClick={() => setActiveModule("home")}

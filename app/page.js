@@ -17,16 +17,16 @@ const Page = () => {
   // Render the active page based on the active module
   const renderActivePage = () => {
     switch (activeModule) {
-      case "home":
-        return <Home />;
+      // case "home":
+      //   return <Home />;
       case "about":
         return <About />;
-      case "projects":
-        return <Projects />;
-      case "contact":
-        return <Contact />;
+      // case "projects":
+      //   return <Projects />;
+      // case "contact":
+      //   return <Contact />;
       default:
-        return <Home />;
+        return <About />;
     }
   };
 

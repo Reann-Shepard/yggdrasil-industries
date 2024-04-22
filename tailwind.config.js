@@ -24,7 +24,7 @@ module.exports = {
     themeRoot: ":root", // the element to apply the theme colors to
     themes: [
       {
-        yggdrasil: {
+        accessible: {
           primary: "#2b6cb0",
           secondary: "#2c5282",
           accent: "#37cdbe",
