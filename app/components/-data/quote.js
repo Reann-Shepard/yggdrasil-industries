@@ -62,7 +62,7 @@ const Quote = () => {
               </p>
               <h2 className="daisy-card-title uppercase">{quote.subject}</h2>
               <blockquote className="w-[80%] mx-auto bg-base-300 text-justify p-4">
-                <p className="">"{quote.body}"</p>
+                <p>&quot;{quote.body}&quot;</p>
               </blockquote>
               <p className="text-sm text-base-content mt-8 absolute">
                 Source: {quote.source}, {quote.sourceType}
