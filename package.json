@@ -17,6 +17,8 @@
     "theme-change": "^2.5.0"
   },
   "devDependencies": {
+    "@types/node": "20.12.7",
+    "@types/react": "18.2.79",
     "autoprefixer": "^10.0.1",
     "daisyui": "^4.10.2",
     "eslint": "^8",

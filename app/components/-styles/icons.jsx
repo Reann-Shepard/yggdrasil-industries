@@ -10,9 +10,9 @@ function ProficiencyIcon({ icon, text }) {
       {React.cloneElement(icon, {
         size: sizeIcon,
         className:
-          "absolute inset-0 opacity-100 group-hover:opacity-0 duration-300",
+          "absolute inset-0 opacity-100 group-hover:opacity-0 duration-300 fill-base-content",
       })}
-      <div className="absolute top-5 left-5 opacity-0 group-hover:opacity-100 duration-300 text-white text-lg font-semibold transform -translate-x-1/2 translate-y-1/2 -rotate-45 origin-top-left">
+      <div className="absolute top-5 left-5 opacity-0 group-hover:opacity-100 duration-300 text-base-content text-lg font-semibold transform -translate-x-1/2 translate-y-1/2 -rotate-45 origin-top-left">
         {text}
       </div>
     </li>

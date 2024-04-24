@@ -2,19 +2,145 @@
   {
     "sourceType": "Rimworld",
     "id": 1,
-    "subject": "Power Armor",
-    "body": "The development of a self-powered exoskeleton goes back to the 21st century, for which its original purpose was to assist people in being able to move far more than otherwise capable and repeatedly without causing injuries.",
+    "subject": "Transbirds",
+    "body": "Much in a similar way to how humans raised pigeons to be aesthetically pleasing and divergent - only to abandon them and declare them as pests - certain breeds of birds have been raised for their intelligence and companionship.",
     "source": "Vanilla Lore Expanded",
-    "pageNumber": "24",
-    "image": "https://rimworldwiki.com/images/2/20/PoweredArmor.png"
+    "pageNumber": "12",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
   },
   {
     "sourceType": "Rimworld",
     "id": 2,
-    "subject": "Power Armor",
-    "body": "One of the capabilities of the EVA armor that was initially met with skepticism when first designed was the auxiliary equipment functionality. This was because the original design was intended for power armor users who had to use both their arms and legs to stay attached to objects in zero gravity environments, so remote-operated shoulder-mounted tools would become almost a necessity.",
+    "subject": "Substance F",
+    "body": "A curious case of a serious drug mixed with morbid humour; Substance F is an anti-cancer medication usually taken by patients that have suffered from excessive radiation poisoning. The recovery process is largely unpleasant but has a high success rate, with an added side effect of turning urine and feces fluorescent during the treatment process.",
     "source": "Vanilla Lore Expanded",
-    "pageNumber": "27",
-    "image": "https://rimworldwiki.com/images/2/20/PoweredArmor.png"
+    "pageNumber": "21",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 3,
+    "subject": "Log File 012",
+    "body": "This is... this is Dr. Johnson. Log entry... 12? Development of Project Starbound. Dr. Tanaka and I have had a row and we're now sleeping on opposite ends of the facility. She claims that the drive is not our creation, that Athena is the one developing it and just helping in keeping the power on.",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "60",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 4,
+    "subject": "Pirate Bands and Bandits",
+    "body": "The relationships with each pirate colony is roughly similar to how each individual pirate views each other; it largely boils down to an attitude of “I can always kill you tomorrow, so let's raid some other schmuck in the meantime”.",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "75",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 5,
+    "subject": "Legendary Animals",
+    "body": "Perhaps the most famous example is the thrumbo - a being whose entire existence is an enigma. [..] They are capable of living for hundreds of years and are naturally gentle creatures, but any hunter trying their luck will find themselves trying to take down a creature that requires an anti-armor missile.",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "101",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 6,
+    "subject": "2177 - Martian Dawn Initiative",
+    "body": "Plastic surgery had taken a backseat to genetic alterations such as bioluminescent body tattoos, iris alterations to imitate feline pupils and prismatic scale generation to both dazzle plebeians and ruin paparazzi attempting to photograph them. Not even their unborn children were spared, [..] generating an entire industry revolving around bespoke baby designing.",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "116",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 7,
+    "subject": "2776 - Fall of Sorne",
+    "body": "[..] The amount of excess material from these different experiments led to the carcasses being sold off to the labour camps to be butchered. One particular experiment resulted in a new form of extremely beautiful - but delicate - silk as a failed attempt to compete with what eventually became known as hyperweave. However, the enormous capital it produced from the ultra-wealthy more than made up for the costs.",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "125",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 8,
+    "subject": "Recovered Sophian Media #1 - Interview",
+    "body": "Captured Sophian Persona AI: “Can you really believe it though? A society in which advanced AI-controlled war machines exist and they use frigging birds to send communications. Birds! Have you ever seen a proper bird? Disgusting filthy creatures. I mean, a citizen doesn't even post a letter in person to their neighbor, they use their dumbass messenger's guild to deliver it for them.” [..]",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "129",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 9,
+    "subject": "Recovered Sophian Media #2 - Editorial",
+    "body": "[..] As such, dear reader, I ask that you start thinking for your self instead of simply listening to what the High Stellarchs tell you. Where is our glorious Emperor and why are they refusing to lead us in these difficult times? When will the upper nobility actually fulfill their promises of looking after those below them, who bring them their food and maintain gene editing therapy pools? [..]",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "131",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 10,
+    "subject": "Archotech Spy",
+    "body": "Whilst official reports are skeptical about the locations of various archotech worlds, they are publicly acknowledged to exist, the main reason being not wanting to potentially anger something that is so far beyond humanity's understanding that it could threaten the continuation of the species. Various government procedures need to be certified - or illegally obtained - before the potential location of a star system of interest is disclosed.",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "145",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 11,
+    "subject": "Assassin",
+    "body": "Assassination is a deeply personal business, for a single death is a tragedy but a thousand casualties is a statistic. Although most assassins are trained from birth to have no empathy and lack any fear of death, lately cheaper and quicker methods have been obtained through mental reprogramming or VR-trained vat clones.",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "146",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 12,
+    "subject": "Phoebe Chillax",
+    "body": "Phoebe spent a lot of her time working on a rodent farm in an overpopulated city on one of the urbworlds. Due to limited spacing and mostly processed foods, she found great success in offering actual meat for those who wanted a break from mediocrity. Granted she ended up on the run because her Ratburgers attracted the taxman, but she found it fun while it lasted.",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "162",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 13,
+    "subject": "Diego Dire",
+    "body": "Diego takes a lot of pride in his mission to find, capture and deliver individuals who have pissed off the wrong people, primarily if it involves a large cash influx in his direction. It might not be the most glamorous job, but it pays for a decent lifestyle and that's all he has ever really wanted in life. Plus, he gets to shoot people in the face, which can be surprisingly therapeutic.",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "163",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 14,
+    "subject": "Alpha Archotech",
+    "body": "Rejoice humans, for your time is at hand. Come, prove your- selves, prove your value to Omega. You have called, and Alpha has listened. Do what you do best and survive. You must. You must. Take them.",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "169",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 15,
+    "subject": "Rhydell",
+    "body": "Rhydell's location is kept secret from the general public because it is a designated research site for various megacorporations including the Alpha Initiative and Gauranlen Inc. Due to the high rainfall, the moon is covered with vast forests housing numerous researchers staying in constant communication with orbital habitats outfitted to resist weapons fire from a super-destroyer.",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "189",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
+  },
+  {
+    "sourceType": "Rimworld",
+    "id": 16,
+    "subject": "Iwamura",
+    "body": "When referring to absolute mediocrity in corporate delivery services, Iwamura is the perfect example as a hollowed-out asteroid that serves as a trading and storage warehouse for its local system. The main source of entertainment comes in the form of televised blood sports. Warehouse workers wanting to quit their contracts can participate and win an all-expenses paid trip on the next passing Cryptosleeper, if they survive.",
+    "source": "Vanilla Lore Expanded",
+    "pageNumber": "192",
+    "image": "https://rimworldwiki.com/images/thumb/1/19/RimWorldLogo.png/72px-RimWorldLogo.png"
   }
 ]

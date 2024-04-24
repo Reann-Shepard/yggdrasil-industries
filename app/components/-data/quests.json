@@ -1,0 +1,32 @@
+[
+  {
+    "index": 1,
+    "status": "ongoing",
+    "title": "Portfolio Website",
+    "body": "This website will be a constantly evolving project that will showcase my work, skills, and interests. It will be a place where I can experiment with new technologies and design ideas."
+  },
+  {
+    "index": 2,
+    "status": "ongoing",
+    "title": "Vanilla Expanded Series",
+    "body": "An ever-expanded collection of mods for Rimworld that expand the game with new content, mechanics, and challenges."
+  },
+  {
+    "index": 3,
+    "status": "ongoing",
+    "title": "CyberStrike",
+    "body": "A turn-based, side-scrolling dungeon crawler set in a cyberpunk/demonic narrative. Designed for mobile devices which will be developed further, alongside two other developers."
+  },
+  {
+    "index": 1,
+    "status": "completed",
+    "title": "Vanilla Lore Expanded",
+    "body": "A comprehensive lore book which delves deep into the narrative fabric of Rimworld, weaving together the sparse lore of the base game with the rich tapestry of the Vanilla Expanded series. Available upon request."
+  },
+  {
+    "index": 2,
+    "status": "completed",
+    "title": "Cursed Crew",
+    "body": "An independent pirate game made by Rimworld mod developers. Developed descriptions, backstory, gameplay suggestions, and created rich gameplay events. Available for purchase on Steam."
+  }
+]
